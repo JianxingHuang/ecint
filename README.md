@@ -1,8 +1,6 @@
-# ElectroChemical Interficial simualtion package (ECINT)
+# ElectroChemical Interfacial simualtion package (ECINT)
 
-
-
-This package is a workflow package based on Aiida and Ase. The simulation of electrochemical system requires a lot of labor works. Therefore, we created this package.
+The package contains some workflows designed for simulation of electrocheical systems, which are based on the widely used scientific workflow package `AiiDA` and `ASE`. The simulation of electrochemical system requires a lot of labor works. Therefore, we created this package.
 
 This package is initially led by Jingfang, Yunpei and Yongbin.
 
